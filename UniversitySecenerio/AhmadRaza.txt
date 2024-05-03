@@ -1,0 +1,43 @@
+2
+AhmadRaza
+ahmadraza@gmail.com
+032345678900
+Courses
+Database
+Calculus
+Statics
+CommunicationSkills
+AppliedPhysics
+OOPs
+Database
+Calculus
+Assignments
+1
+Draw A Circle
+12-09-2023
+2
+Programm A Problem
+12-10-2024
+14
+Solve a Programming Challenge
+12-20-2024
+Clubs
+10
+Shereton
+AmericanType
+11
+SnookerIndia
+IndianType
+Resources
+6
+Technology-Advancements
+Dr.Shamil-Sindhu
+1
+2
+Poetry
+Allama-Iqbal
+1
+3
+C++-Skills
+Dr.Roy-Pandha
+1
